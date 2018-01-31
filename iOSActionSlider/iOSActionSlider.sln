@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSActionSlider", "iOSActionSlider\iOSActionSlider.csproj", "{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Release|iPhone.Build.0 = Release|iPhone
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BE20CF45-B7E9-44D1-99CA-BF7BB7410E41}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
